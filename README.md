@@ -7,7 +7,7 @@
 <body>
 
   <h1>Welcome to Sam's Zoo</h1>
-Sammuel Farias, github username: samfarias, siteurl: https://samfarias.github.io/my_zoo/
+Sammuel Farias, github username: samfarias, site url: https://samfarias.github.io/my_zoo/
   <nav>
     <h2>Our Animals</h2>
     <ul>
