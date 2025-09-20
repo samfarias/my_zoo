@@ -15,9 +15,13 @@
         <h2>Our Animals</h2>
         <ul>
             <li><a href="lions.html">Lions</a></li>
+            <a href="lions.html">lions</a>
             <li><a href="penguins.html">Penguins</a></li>
+            <a href="penguins.html">penguins</a>
             <li><a href="monkeys.html">Monkeys</a></li>
+            <a href="monkeys.html">monkeys</a>
             <li><a href="giraffes.html">Giraffes</a></li>
+            <a href="monkeys.html">monkeys</a>
         </ul>
     </nav>
 
