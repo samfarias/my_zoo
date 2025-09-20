@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-Group of one:             Sammuel Farias username: samfarias/n
+Group of one:             Sammuel Farias <b>
+username: samfarias/n
 Site is live at address:  https://samfarias.github.io/my_zoo/
 <html lang="en">
 <head>
