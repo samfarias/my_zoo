@@ -11,10 +11,10 @@ Sammuel Farias, github username: samfarias, site url: https://samfarias.github.i
   <nav>
     <h2>Our Animals</h2>
     <ul>
-      <li><a href="lions.html">Lions</a></li>
-      <li><a href="penguins.html">Penguins</a></li>
-      <li><a href="monkeys.html">Monkeys</a></li>
-      <li><a href="giraffes.html">Giraffes</a></li>
+      <li><a href="pages/lions.html">Meet the Lions</a></li>
+      <li><a href="pages/penguins.html">Meet the Penguins</a></li>
+      <li><a href="pages/monkeys.html">Meet the Monkeys</a></li>
+      <li><a href="pages/giraffes.html">Meet the Giraffes</a></li>
     </ul>
   </nav>
 
