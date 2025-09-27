@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>Welcome to Sam's Zoo (readmefile)</h1>
+  <h1>Welcome to Sam's Zoo (rm)</h1>
 Sammuel Farias, github username: samfarias, site url: https://samfarias.github.io/my_zoo/
   <nav>
     <h2>Our Animals</h2>
